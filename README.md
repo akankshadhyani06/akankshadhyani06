@@ -43,8 +43,8 @@ Currently working on real-world projects and exploring AI/ML.
 ---
 
 ### 📫 How to Reach Me
-- GitHub: https://github.com/your-username  
-- Email: your-email@example.com  
+- GitHub: https://github.com/akankshadhyani06 
+- Email: your- akanshadhyani2006@example.com  
 
 ---
 
