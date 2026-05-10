@@ -44,7 +44,8 @@ Currently working on real-world projects and exploring AI/ML.
 
 ### 📫 How to Reach Me
 - GitHub: https://github.com/akankshadhyani06 
-- Email: your- akanshadhyani2006@example.com  
+- Email: your- akanshadhyani2006@example.com
+- Linkedin- https://www.linkedin.com/in/akankshadhyani2006
 
 ---
 
