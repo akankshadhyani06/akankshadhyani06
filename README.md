@@ -6,7 +6,7 @@ Currently working on real-world projects and exploring AI/ML.
 ---
 
 ### 🧠 About Me
-- 🎓 B.Tech (2nd Year)
+- 🎓 B.Tech (3rd Year)
 - 💡 Interested in AI, Machine Learning & App Development
 - 📱 Building apps that solve real-life problems
 - 💸 Looking to earn through freelancing & tech skills
